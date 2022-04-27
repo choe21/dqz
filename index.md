@@ -1,11 +1,11 @@
 ## 杜琼庄
 越南人🇻🇳
 研究生
-You can use the [editor on GitHub](https://github.com/choe21/dqz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+留学生
+硕士
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 庄庄庄
+### 庄庄庄choechoechoe
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
